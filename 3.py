@@ -51,3 +51,14 @@ print(message)
 # age = سن خودتون
 # message = my name is  -------   and i am ---- years old
 # print(message)
+name = "mostafa"
+family = "sadeghi"
+# age = '35'
+age = 35
+# message = "my name is " + name + " " + family + " and i'm " + str(age) + " years old"
+# print(message)
+
+# fstring
+
+message = f"my name is {name} {family} and i'm {age} years old"
+print(message)
