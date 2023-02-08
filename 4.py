@@ -13,8 +13,8 @@
 # print(type(number2))
 # print("sum of two numbers is", number1 + number2)
 # تبدیل نوع رشته به عدد اعشاری
-number1 = float(input('enter first number '))
-number2 = float(input('enter second number '))
+# number1 = float(input('enter first number '))
+# number2 = float(input('enter second number '))
 # print(type(number1))
 # print(type(number2))
-print("sum of two numbers is", number1 + number2)
+# print("sum of two numbers is", number1 + number2)
