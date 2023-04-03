@@ -68,20 +68,20 @@ c = 6
 # if "":
 #  print("some thing")
 
-USERNAME = ['admin', 'root']
-PASSW = 'root'
+# USERNAME = ['admin', 'root']
+# PASSW = 'root'
 
-user_name = input('enter user name:> ')
-password = input('enter password:> ')
+# user_name = input('enter user name:> ')
+# password = input('enter password:> ')
 
-if user_name and password:
-    if user_name == USERNAME and password == PASSW:
-        print("account is valid")
-        print("login was successful")
-    else:
-        print("user name or password is not correct")
+# if user_name and password:
+#     if user_name == USERNAME and password == PASSW:
+#         print("account is valid")
+#         print("login was successful")
+#     else:
+#         print("user name or password is not correct")
 
-else:
+# else:
     print('you must enter user name and password')
 
 
