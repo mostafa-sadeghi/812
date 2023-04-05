@@ -41,3 +41,5 @@ name = input('enter a name:> ')
 sport = input('enter sport:> ')
 favorite_sports[name] = sport
 print(favorite_sports)
+#  تمرین
+# غذاهای مورد علاقه دوستانتان را در دیکشنری ذخیره کنید و نمایش دهید
