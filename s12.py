@@ -82,7 +82,7 @@ c = 6
 #         print("user name or password is not correct")
 
 # else:
-    print('you must enter user name and password')
+    # print('you must enter user name and password')
 
 
 # برنامه با لا را به گونه ای اصلاح کنید که هر دو نام کاربری را بتوان وارد نمود
