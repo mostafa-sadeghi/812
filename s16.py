@@ -12,3 +12,5 @@ for x in numbers:
 
 for x in 'karen':
     print(x, end='      ')
+    print("inside")
+print("outside")
