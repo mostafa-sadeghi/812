@@ -38,11 +38,11 @@
 # message = '''he said you "could'nt do some thing"'''
 # print(message)
 
-name = "artin"
-family = "rezaei"
+# name = "artin"
+# family = "rezaei"
 
-message = "hello" + " "+name+" " + family
-print(message)
+# message = "hello" + " "+name+" " + family
+# print(message)
 
 
 #  تمام کدهای بالا را مرور کنید و همینطور برنامه زیر را بنویسید
@@ -51,8 +51,8 @@ print(message)
 # age = سن خودتون
 # message = my name is  -------   and i am ---- years old
 # print(message)
-name = "mostafa"
-family = "sadeghi"
+# name = "mostafa"
+# family = "sadeghi"
 # age = '35'
 age = 35
 # message = "my name is " + name + " " + family + " and i'm " + str(age) + " years old"
@@ -60,5 +60,5 @@ age = 35
 
 # fstring
 
-message = f"my name is {name} {family} and i'm {age} years old"
-print(message)
+# message = f"my name is {name} {family} and i'm {age} years old"
+# print(message)
