@@ -6,8 +6,8 @@
 # با کمک حلقه فور و وایل برنامه ای بنویسید که
 # چهار اسم از ورودی دریافت نماید و اسامی وارد شده را در یک خط کنار هم با یک فاصله نمایش دهد
 
-done = True
-while done:
-    quit = input('Do you want to quit? ')
-    if quit == "y":
-        done = False
+# done = True
+# while done:
+#     quit = input('Do you want to quit? ')
+#     if quit == "y":
+#         done = False
